@@ -99,9 +99,7 @@ textarea {
 
 body
 {
-	background-color: #31363a;
-	background-image: url('/img/bg.png');
-	background-repeat: repeat;
+	background-color: #303233;
 }
 
 main#container
@@ -115,8 +113,14 @@ main#container
 
 h1
 {
+	margin: 0;
 	font-family: Helvetica, sans-serif;
 	color: #ccc;
+}
+
+p
+{
+	margin: 2em 0;
 }
 
 .button
